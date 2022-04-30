@@ -9,6 +9,7 @@ Game uses:
   - Object pooling 
   - Unity UI System 
   - Path finding algorithm 
+  - Prefab variations
 
 Gameplay footage: 
 
